@@ -4,7 +4,7 @@
 
 <h2>Lab I Created With Packet Tracer</h2>
 <p align="center">
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/a83ead94-bc5d-4c16-81a6-3afa43b37be3)"/>
 <br />
 <br />
 
