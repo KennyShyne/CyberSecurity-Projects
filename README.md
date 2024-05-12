@@ -1,7 +1,7 @@
 # CyberSecurity-Projects 
 
-<h2>This is my attack and defense home lab environment were i will practice both Reb and Blue teaming. I have started this project to sharpen my skills and become a better security engineer. 
-Below are the courses im taking and using for guidance in this learning journey:
+<h2>This is my attack and defense home lab environment where i will practice both Red and Blue teaming. I have started this project to sharpen my skills and become a better security engineer. 
+Below are the courses i'm taking and using for guidance in this learning journey:
 
 	Blue Teaming:
 	-Windows Digital Forensics by TCM Academy
