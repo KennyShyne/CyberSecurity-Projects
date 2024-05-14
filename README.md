@@ -14,7 +14,7 @@ Below are the courses i'm taking and using for guidance in this learning journey
 </h2>
 
 <p align="center">
-<img src="https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/a83ead94-bc5d-4c16-81a6-3afa43b37be3)"/>
+<img src="https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/d56dac1d-7e72-4bfd-98e6-dd18d5d73615)"/>
 <br />
 <br />
 
@@ -23,4 +23,5 @@ Below are the courses i'm taking and using for guidance in this learning journey
 <br />
 
 <h2>Lab Requirements and Setup</h2>
+
 
