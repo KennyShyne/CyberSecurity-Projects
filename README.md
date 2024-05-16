@@ -43,8 +43,10 @@ Red Teaming:
 
 
 ### PFsense Setup
-![2024-04-15 21_58_36-y2mate com - Cybersecurity Detection Lab Configuring Pfsense Firewall Network Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/460c3e46-84af-4398-8278-cd256cf6e260)
+<p align="center">
 
+ ![2024-04-15 21_58_36-y2mate com - Cybersecurity Detection Lab Configuring Pfsense Firewall Network Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/460c3e46-84af-4398-8278-cd256cf6e260)
+ 
 ![2024-04-15 22_31_13-Create Virtual Machine](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/4f2023a9-2942-425b-8168-1c510edd015c)
 
 ![2024-04-16 22_10_21-Hardware](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/540b20cb-1d08-4e4e-bb68-6de51dd179d3)
@@ -59,10 +61,20 @@ Red Teaming:
 
 ![2024-04-16 23_01_50-](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/f6541ee5-1e55-4c29-8111-2d0e166ee719)
 
-
+$~$
 ### Kali Linux Attacking Machine Setup
+![Screenshot (2)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/9701535c-5f4d-40fc-89bd-ceb2039e39b5)
+
+![Screenshot (3)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/338c9bb9-0e96-4897-a0ce-874629ecce0b)
+
+![Screenshot (4)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/ef2dc980-e32e-4a57-a090-a3457de61cd1)
+
+![Screenshot (5)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/e0f02c45-06b0-4e06-b1c8-e328b986a081)
+
+$~$
 ### PFsense Web Config
 
+$~$
 
 ### Windows Domain Controller Setup
 ### Adding Workstations to the Domain
