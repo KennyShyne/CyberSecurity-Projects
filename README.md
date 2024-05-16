@@ -1,7 +1,6 @@
 # CyberSecurity-Projects 
 
-<h2>This is my attack and defense home lab environment where i will practice both Red and Blue teaming. I have started this project to sharpen my skills and become a better security engineer.</h2>
-
+This is my attack and defense home lab environment where i will practice both Red and Blue teaming. I have started this project to sharpen my cybersecurity skills and become a better security engineer.
 <h2>Below is the list of my courses i'm taking for my Security Engineering Journey:</h2>
  
   Blue Teaming:
