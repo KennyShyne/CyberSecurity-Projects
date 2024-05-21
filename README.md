@@ -87,6 +87,21 @@ $~$
 
 $~$
 ### PFsense Web Config
+![2024-05-18 09_43_30-Kali SK 2024 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/7e29d61c-fa0d-4d2a-8b24-7e5fc9c470e1)
+![2024-05-18 09_57_56-Kali SK 2024 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/a48e2dfa-c0b8-46cb-9242-f413533786b5)
+![2024-05-18 09_57_08-Kali SK 2024 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/f9579629-f1a5-414d-909c-bcf544690397)
+![2024-05-18 10_12_16-Window](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/5ff5cce9-0ca7-4f7d-8e85-88d1e5421984)
+![2024-05-18 10_14_08-Window](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/92b6cb15-1ddb-4366-b138-510d6f882778)
+![2024-05-18 10_14_59-Window](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/c8f1d7f2-3eb9-4a05-812f-d9d07827d61a)
+![2024-05-18 10_15_44-Window](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/11a2226b-4a67-450a-9c0f-d1d0fa8349a7)
+![2024-05-18 10_16_58-Window](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/6532ed79-9916-41cd-b728-142f0f05ee22)
+![2024-05-18 10_26_09-Kali SK 2024 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/1af9c7c8-fca5-4bb8-a01f-d8d116eb0692)
+![2024-05-18 10_35_15-Kali SK 2024 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/01b0ee81-5ef8-4868-bd11-cfc83330d4a6)
+![2024-05-18 10_39_36-Kali SK 2024 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/303d1775-b508-4677-9e89-a191a3800efd)
+![2024-05-18 10_40_23-Kali SK 2024 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/75a01fc0-ca80-46cf-a6d7-ba1ab49849f9)
+![2024-05-18 10_42_19-Kali SK 2024 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/d7648531-740f-40b2-a31e-6df922ed25ac)
+![2024-05-18 10_43_36-Kali SK 2024 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/ffe321d4-d66b-4af3-8bd2-0258496364a2)
+
 
 $~$
 ### Windows Domain Controller Setup
