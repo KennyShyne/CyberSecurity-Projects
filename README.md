@@ -6,6 +6,7 @@ This is my attack and defense home lab environment where i will practice both Re
   Blue Teaming:
 - Windows Digital Forensics by TCM Academy
 - Malware Analysis and triage by TCM Academy
+- Blue Team Junior Analyst By Security Blue Team
 - Lets Defend
  
 
@@ -42,12 +43,15 @@ Red Teaming:
  - [Splunk Universal Fowarders Setup](#splunk-universal-fowarders-setup)
  
 
-
+$~$
 ### PFsense Setup
 <p align="center">
 
- ![2024-04-15 21_58_36-y2mate com - Cybersecurity Detection Lab Configuring Pfsense Firewall Network Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/460c3e46-84af-4398-8278-cd256cf6e260)
+- Below is the site i downloaded the Pfsense ISO
+![2024-04-15 21_58_36-y2mate com - Cybersecurity Detection Lab Configuring Pfsense Firewall Network Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/460c3e46-84af-4398-8278-cd256cf6e260)
  
+- VMware setup and installation
+  
 ![2024-04-15 22_31_13-Create Virtual Machine](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/4f2023a9-2942-425b-8168-1c510edd015c)
 
 ![2024-04-16 22_10_21-Hardware](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/540b20cb-1d08-4e4e-bb68-6de51dd179d3)
@@ -56,7 +60,11 @@ Red Teaming:
 
 ![2024-04-16 22_18_29-](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/176c6363-e090-4cfc-9fb5-544e0f41ed90)
 
+- Activating Network Interfaces/Ports
+
 ![2024-04-16 22_23_47-](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/156f6956-ba0e-4033-9661-29da4053022f)
+
+- Assigning IP Addresses to my interfaces
 
 ![2024-04-16 22_41_07-](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/efadfac7-5050-41b2-ada9-9a3498ad08b6)
 
@@ -64,22 +72,26 @@ Red Teaming:
 
 $~$
 ### Kali Linux Attacking Machine Setup
+
+- Site i downloaded my ISO
 ![Screenshot (2)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/9701535c-5f4d-40fc-89bd-ceb2039e39b5)
+
+- VMware setup and installation
 
 ![Screenshot (3)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/338c9bb9-0e96-4897-a0ce-874629ecce0b)
 
 ![Screenshot (4)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/ef2dc980-e32e-4a57-a090-a3457de61cd1)
 
+- My login screen (I have already changed my default username and password)
 ![Screenshot (5)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/e0f02c45-06b0-4e06-b1c8-e328b986a081)
 
 $~$
 ### PFsense Web Config
 
 $~$
-
 ### Windows Domain Controller Setup
 ### Adding Workstations to the Domain
 
-
+$~$
 ### Splunk Installation and Setup
 ### Splunk Universal Fowarders Setup
