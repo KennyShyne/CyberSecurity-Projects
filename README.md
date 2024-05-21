@@ -6,6 +6,7 @@ This is my attack and defense home lab environment where i will practice both Re
   Blue Teaming:
 - Windows Digital Forensics by TCM Academy
 - Malware Analysis and triage by TCM Academy
+- Lets Defend
  
 
 Red Teaming:
