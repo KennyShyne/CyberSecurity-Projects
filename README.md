@@ -127,6 +127,31 @@ $~$
 
 $~$
 ### Windows Domain Controller Setup
+**- I will be using Windows Server 2019 as my Domain Controller. Installation and setup below**
+![2024-05-22 19_44_16-Windows Server 2012 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/053e1e63-8a2b-435e-baf2-14aa66cce08c)
+![2024-05-22 20_06_52-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/e0d4c347-3302-4fd8-8855-21d21a6b8279)
+![2024-05-22 20_07_35-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/9ddf12e1-4059-4deb-a22e-ec3beb28e625)
+![2024-05-22 20_07_47-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/61c8ef51-c89d-4391-86ba-e5af531bee98)
+![2024-05-22 20_08_07-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/a2d917f1-74a2-4cdd-869c-625a4112ecaf)
+
+**- Configuring Roles and Features**
+![2024-05-22 20_11_25-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/7fbde18d-11fc-48a2-be8c-1f2950c434ea)
+![2024-05-23 20_11_52-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/895da805-ffab-45ec-97ad-f2559452c90c)
+![2024-05-23_1 20_12_09-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/38e4163e-9d63-403c-a4c2-e47582010dd9)
+![2024-05-22 20_12_49-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/1c9fe261-a94d-4c5d-8fc0-0b445d3881e0)
+![2024-05-22 20_13_29-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/58a79823-d84a-42b8-9250-cf6a099b378e)
+![2024-05-22 20_14_40-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/13d31ec4-bb27-4f38-bed1-9646495a7cbc)
+![2024-05-22 20_15_39-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/5198f590-e733-4e32-859d-df6806158698)
+
+$~$
+**- Promoting the domain controller**
+![2024-05-22 20_16_37-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/389d1a3e-2828-448b-b03c-2e5548b8e532)
+
+![2024-05-22 20_17_08-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/e917cdd2-2f12-4fc9-b362-93fb187d31c7)
+![2024-05-22 20_17_39-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/22bf23f9-231c-49e7-8f6c-779f4b62e160)
+![2024-05-22 20_18_03-y2mate com - Cybersecurity Detection Lab Building An Active Directory Lab for Se](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/a85d2a7d-3b9f-44f5-9068-c367408fea22)
+
+
 ### Adding Workstations to the Domain
 
 $~$
