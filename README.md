@@ -41,7 +41,8 @@ This is my attack and defense home lab environment where i will practice both Re
 
 - [Splunk Installation & Setup](#splunk-installation-and-setup)
  - [Splunk Universal Fowarders Setup](#splunk-universal-fowarders-setup)
- 
+
+- [Malware Analysis, Digital Forensics & Incident Response Environment](#malware-analysis-digital-forensics-and-incident-response-environment) 
 
 $~$
 ### PFsense Setup
@@ -272,5 +273,5 @@ $~$
 ![2024-05-29 11_22_37-Greenshot](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/333b6b48-deab-42ca-a266-318bad32e79b)
 
 
-
+### Malware Analysis Digital Forensics and Incident Response Environment
 
