@@ -258,7 +258,6 @@ $~$
 ![2024-05-28 19_57_52-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/7ac31456-add7-407b-9243-a891a2efcf84)
 ![2024-05-28 20_04_09-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/c4386977-62ca-46b9-b948-a83e1ee88dd4)
 ![2024-05-28 20_04_52-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/f8a2c85a-79be-4175-b6f6-636bddb7197f)
-![2024-05-28 20_06_29-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/483f6a63-0dc8-402d-906c-b8be03d859c7)
 
 **- Setup on Splunk**
 ![2024-05-29 10_46_07-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/61858bcd-7fdf-44cd-91db-2286091ed718)
@@ -267,9 +266,10 @@ $~$
 ![2024-05-29 11_03_02-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/3e2ab240-37ff-4176-8e4c-ca0859a95905)
 ![2024-05-29 11_14_22-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/3010c124-faf8-44a6-8a22-1eabe105e56a)
 ![2024-05-29 11_15_55-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/7df9294d-9ba8-4cfe-9b5f-e583c5e20df8)
-
-
-
+![2024-05-29 11_17_50-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/0b623ecc-7844-41be-8b60-f3bf0dd04c06)
+![2024-05-29 11_20_13-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/67bc95fe-079b-4672-8e44-4ad9d04b5f2d)
+![2024-05-29 12_06_36-Greenshot](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/274ab009-ef2c-40ae-b3ad-d26996f31b6f)
+![2024-05-29 11_22_37-Greenshot](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/333b6b48-deab-42ca-a266-318bad32e79b)
 
 
 
