@@ -192,14 +192,12 @@ $~$
 ![2024-05-25 12_01_18-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/57eb7ed1-4d8c-40d1-be5c-4af07a97cfd3)
 ![2024-05-25 12_10_58-Greenshot](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/81d5a2bc-7cf8-448b-9c87-979cc71eb8f2)
 
-
 ### Adding Users to the Domain
 ![2024-05-25 12_12_02-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/49030865-886f-4e92-8716-558487041a07)
 ![2024-05-25 12_12_51-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/59431cb7-9944-427c-b994-3c952318e7be)
 ![2024-05-25 12_14_11-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/3051c6dd-6c16-44e5-9053-f9c27f3bafcb)
 ![2024-05-25 12_17_12-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/d0d9ac2a-1a62-4ea7-912b-c088a80a63e7)
 ![2024-05-25 12_19_31-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/afaaac5f-5202-4073-b870-6f58e9116c03)
-
 
 ### Adding Workstations to the Domain
 Our windows PC should be in the same subnet as our Domain Controller
@@ -217,7 +215,6 @@ Our windows PC should be in the same subnet as our Domain Controller
 ![2024-05-25 13_07_16-Kali SK 2024 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/a8ffb836-9591-4e8a-9e0b-39670326d787)
 ![2024-05-25 13_09_29-Kali SK 2024 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/ea8c226a-b2bb-4ea6-9058-f22d97a59c74)
 ![2024-05-25 13_12_15-Kali SK 2024 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/a33f6a12-5d8c-4254-8c75-394d1f2e59b5)
-
 
 $~$
 ### Splunk Installation and Setup
