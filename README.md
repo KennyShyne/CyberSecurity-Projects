@@ -221,4 +221,59 @@ Our windows PC should be in the same subnet as our Domain Controller
 
 $~$
 ### Splunk Installation and Setup
+**- Ubuntu Server Installation and Setup**
+![2024-05-25 16_03_21-Virtual Machine Settings](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/0a2eb0bf-5c60-4f8c-beff-d0d3562fc142)
+![2024-05-25 16_06_57-Ubuntu Splunk Server - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/e102056c-6459-4e82-8598-a2b669c9b1b5)
+![2024-05-25 16_07_23-](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/aa5ce4cf-fbc3-45c1-958d-e0c2a8121104)
+![2024-05-25 16_09_48-Greenshot](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/17b72243-bad1-4de1-b3a5-e8bb0719dc25)
+![2024-05-25 16_10_09-Ubuntu Splunk Server - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/4561df5c-ff52-482a-a111-4193e3b8b144)
+![2024-05-25 17_21_29-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/71de0101-5636-4d3f-8cb8-46ec5a265752)
+![2024-05-25 17_28_16-Greenshot](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/48845b46-1af1-41db-9288-3b188c3052a4)
+![2024-05-25 17_33_49-Greenshot](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/fee79b40-16e9-4d81-a379-872f3219eb48)
+![2024-05-25 17_33_49-Greenshot](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/b0a1794c-3443-429e-9ca1-da1d2113b11f)
+
+**- Ubuntu Tasksel Installation**
+![2024-05-25 17_37_19-Greenshot](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/c556de6e-f35e-4834-9f47-486c2d1f2e4a)
+![2024-05-25 17_41_47-](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/f8c19442-0d27-4fc1-be24-036c6a96acb0)
+![2024-05-25 19_14_41-Greenshot](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/db6b7baf-559b-4301-9f5c-d1266d4060e4)
+
+**- Splunk Installation and Setup**
+![2024-05-26 11_04_57-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/fa963aee-35ba-4fc8-a23a-cc1461102e53)
+![2024-05-26 11_05_34-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/4426c67e-0841-486f-90bf-33b5f40f3a8a)
+![2024-05-26 11_07_25-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/0d9219cd-f663-4837-a3bd-a4b90a40660e)
+![2024-05-26 11_09_38-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/eff556c4-ada7-42ed-a298-a84a486784ef)
+![2024-05-26 11_11_58-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/481d9b29-15bd-420d-8afb-61d182a9f169)
+![2024-05-26 11_14_43-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/36fa1758-fa1a-4cf7-8bc2-e236a439c305)
+![2024-05-26 11_17_34-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/dbd03d2e-d884-4301-87b8-14ce61439ae7)
+![2024-05-26 11_21_14-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/3758b03f-72b2-48ef-8024-4a2ad9100357)
+![2024-05-26 11_23_57-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/18c9e80e-0cc5-4ed9-bbb6-e8e1b29a2d2d)
+![2024-05-26 11_28_22-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/15620539-ed42-4a8b-960b-47f3845059c7)
+![2024-05-26 11_32_54-y2mate com - Cybersecurity Detection Lab Forwarding Windows Event Logs to Splunk](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/232fc36d-6079-404d-b70a-38cf23ef2d7b)
+![2024-05-26 11_43_41-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/3716eea7-3b0b-46af-a0e0-b005539aa91d)
+![2024-05-26 11_45_22-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/6c7415c2-10be-43e9-acf5-72d0152c5409)
+![2024-05-26 11_48_05-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/dc21731c-3585-4811-aeb7-44059426972d)
+![2024-05-26 11_49_18-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/6f2e5652-30b3-421b-8791-e6ffa989b1ea)
+
+
 ### Splunk Universal Fowarders Setup
+**- Setup on Domain Controller**
+![2024-05-26 16_30_59-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/6dc673fc-d5ef-4c64-8e9a-9c89ecb1fd87)
+![2024-05-28 19_57_52-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/7ac31456-add7-407b-9243-a891a2efcf84)
+![2024-05-28 20_04_09-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/c4386977-62ca-46b9-b948-a83e1ee88dd4)
+![2024-05-28 20_04_52-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/f8a2c85a-79be-4175-b6f6-636bddb7197f)
+![2024-05-28 20_06_29-Windows Server 2019 - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/483f6a63-0dc8-402d-906c-b8be03d859c7)
+
+**- Setup on Splunk**
+![2024-05-29 10_46_07-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/61858bcd-7fdf-44cd-91db-2286091ed718)
+![2024-05-29 10_48_10-](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/2385e63c-5d90-4251-aa1a-1cb910e0944b)
+![2024-05-29 10_49_13-Greenshot](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/1e0fbc8b-cfa2-42c0-85ce-8aed438294de)
+![2024-05-29 11_03_02-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/3e2ab240-37ff-4176-8e4c-ca0859a95905)
+![2024-05-29 11_14_22-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/3010c124-faf8-44a6-8a22-1eabe105e56a)
+![2024-05-29 11_15_55-Ubuntu Splunk - VMware Workstation 17 Player (Non-commercial use only)](https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/7df9294d-9ba8-4cfe-9b5f-e583c5e20df8)
+
+
+
+
+
+
+
