@@ -4,15 +4,16 @@ This is my attack and defense home lab environment where i will practice both Re
 <h2>Below is the list of my courses i'm taking for my Security Engineering Journey:</h2>
  
  **Blue Teaming:**
-- Windows Digital Forensics by TCM Academy
-- Malware Analysis and triage by TCM Academy
-- Blue Team Junior Analyst By Security Blue Team
-- Lets Defend
+- [TCM Academy Practical Windows Forensics](https://academy.tcm-sec.com/p/practical-windows-forensics)
+- [BlueCape Security Windows Forensics](https://bluecapesecurity.com/courses/practical-windows-forensics-lab)
+- [TCM Academy Malware Analysis](https://academy.tcm-sec.com/p/practical-malware-analysis-triage)
+- [Blue Team Junior Analyst](https://www.securityblue.team/training/)
+- [Lets Defend](https://app.letsdefend.io/training)
  
 
  **Red Teaming:**
-- Ethical Hacking by TCM Academy
-- Web Application Security by TCM Academy
+- [TCM Academy Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
+- [TCM Academy Web Application Security](https://academy.tcm-sec.com/p/practical-web-hacking)
 
 <h2>Lab Diagram & Description</h2>
 <p align="center">
@@ -274,4 +275,9 @@ $~$
 
 
 ### Malware Analysis Digital Forensics and Incident Response Environment
-
+**Links and courses to use**
+- Malware Analysis Course - [TCM Academy Malware Analysis](https://academy.tcm-sec.com/p/practical-malware-analysis-triage)
+- Digital Forensics Course - [TCM Academy Practical Windows Forensics](https://academy.tcm-sec.com/p/practical-windows-forensics)
+- Blue Cape Security - [Windows Forensics](https://bluecapesecurity.com/courses/practical-windows-forensics-lab)
+- [Remnux Setup](https://docs.remnux.org/) 
+- [Flare VM Setup](https://github.com/mandiant/flare-vm)
